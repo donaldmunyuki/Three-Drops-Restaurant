@@ -1,6 +1,8 @@
 # Three-Drops-Restaurant
 Three Drops is a dramatic restaurant and cocktail bar landing page template built for hospitality brands that want an elevated, nightlife-inspired online presence.
 
+!["Three Drops Restaurant"](Three-Drops.png)
+
 ## What’s Included
 - Hero with slideshow imagery (cocktails, food, ambience)
 - Bold section navigation for Menu, Crafts, Events, About
