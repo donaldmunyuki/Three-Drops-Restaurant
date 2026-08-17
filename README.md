@@ -18,3 +18,5 @@ Three Drops is a dramatic restaurant and cocktail bar landing page template buil
 - Subtle animations & noise texture for a refined, modern feel
 
 Use this template to launch or refresh a bar, bistro, or modern restaurant site that highlights signature drinks, curated dishes, and special events while converting visitors into reservations.
+
+© 2024 Three Drops Bar & Kitchen. Design by Donatech(https://donatech.co.za)
